@@ -2,6 +2,13 @@
 
 This is a living document and will be updated as the architecture evolves.
 
+**Implementation status:**
+The full Smart Sprout vision includes multimodal Gemini models and Google embeddings.
+The current assignment implementation is a **text‑only subset**:
+- LLM: Google Gemini (text)
+- Embeddings: HuggingFace (all‑MiniLM‑L6‑v2)
+- No vision or image pipelines implemented yet
+
 ---
 
 ## 1. Project Overview
@@ -23,12 +30,14 @@ Users may ask questions like:
 
 **Our choice:**
 
-- **Generation:** Google Gemini 2.0 Flash
-- **Embeddings:** Google text‑embedding‑004
+- **Generation:** Google Gemini 2.5 Flash
+- **Embeddings:** HuggingFace all‑MiniLM‑L6‑v2 
 - **Vision:** Gemini native vision
 
 **Why:**
-Gemini provides a unified ecosystem for text, embeddings, and vision. As this project is multimodel due to the use of text and images using a provider who can handle all of it in one ecosystem. This simplifies development and reduces integration overhead. Flash is fast and inexpensive, which is ideal for an agent that may loop multiple times when confidence is low. The native vision model removes the need to host or fine‑tune a separate classifier. The embedding model is high‑quality and easy to use for optional RAG components. Overall, Gemini offers the best balance of cost, speed, quality, and multimodal support for this project
+Gemini provides a unified ecosystem for text, embeddings, and vision. As this project is multimodel due to the use of text and images using a provider who can handle all of it in one ecosystem. This simplifies development and reduces integration overhead. Flash is fast and inexpensive, which is ideal for an agent that may loop multiple times when confidence is low. The native vision model removes the need to host or fine‑tune a separate classifier. Overall, Gemini offers the best balance of cost, speed, quality, and multimodal support for this project
+
+HuggingFace embeddings are used instead of Gemini embeddings due to current API instability in LangChain’s Google embedding wrapper.
 
 ### LangChain Integration
 
@@ -37,7 +46,7 @@ Gemini provides a unified ecosystem for text, embeddings, and vision. As this pr
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 # Embeddings
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 ```
 
 ---
@@ -193,11 +202,11 @@ project-name/
 ## 7. Development Milestones
 
 ### Milestone 1: Infrastructure Setup
-- [ ] GitHub repo created with chosen structure
-- [ ] Codespace configured with Python, dependencies
-- [ ] API keys stored as Codespace secrets
-- [ ] LLM provider connected — can make a basic call through LangChain
-- [ ] Vector store initialized — can add and query test embeddings
+- [x] GitHub repo created with chosen structure
+- [x] Codespace configured with Python, dependencies
+- [x] API keys stored as Codespace secrets
+- [x] LLM provider connected — can make a basic call through LangChain
+- [x] Vector store initialized — can add and query test embeddings
 
 ### Milestone 2: RAG Pipeline
 - [ ] Corpus loaded and chunked
@@ -230,7 +239,7 @@ langchain
 langchain-chroma
 langchain-community
 
-# Providers (pick what you need)
+# Providers
 langchain-google-genai
 ```
 
