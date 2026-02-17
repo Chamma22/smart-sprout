@@ -4,3 +4,5 @@ langchain-chroma
 google-genai
 python-dotenv
 chromadb
+langchain-huggingface
+sentence-transformers

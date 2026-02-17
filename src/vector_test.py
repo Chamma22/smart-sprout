@@ -6,11 +6,11 @@ Demonstrates that the project can create and query a Chroma vector store.
 from load_env import load_local_env
 load_local_env()
 
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 
 def main():
-    embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
+    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
     docs = [
         "Seedlings need light, water, and nutrients to grow.",
