@@ -1,5 +1,5 @@
 """
-agent_test.py
+src/agent_test.py
 
 Demonstrates that the project can create a simple LangChain agent.
 """

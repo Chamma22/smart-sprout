@@ -6,3 +6,5 @@ python-dotenv
 chromadb
 langchain-huggingface
 sentence-transformers
+openai
+langchain-openai
