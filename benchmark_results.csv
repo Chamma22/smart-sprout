@@ -1,0 +1,11 @@
+query,query_type,expected_tool,tool_selected,model_used,response_time_s
+What does a sunflower look like?,text,plant_lookup,plant_lookup,llama-3.1-8b-instant,1.017
+How do I care for a rose?,text,plant_lookup,plant_lookup,llama-3.1-8b-instant,0.919
+Is foxglove toxic to pets?,text,plant_lookup,plant_lookup,llama-3.1-8b-instant,1.118
+What flowers grow in similar conditions to a water lily?,text,find_similar_flowers,find_similar_flowers,llama-3.1-8b-instant,0.77
+image_06739.jpg,image,identify_flower_from_image,identify_flower_from_image,llama-3.1-8b-instant,14.518
+image_03829.jpg,image,identify_flower_from_image,identify_flower_from_image,llama-3.1-8b-instant,19.671
+image_06939.jpg,image,identify_flower_from_image,identify_flower_from_image,llama-3.1-8b-instant,19.301
+image_01315.jpg,image,identify_flower_from_image,identify_flower_from_image,llama-3.1-8b-instant,18.435
+image_05904.jpg,image,identify_flower_from_image,identify_flower_from_image,llama-3.1-8b-instant,29.036
+image_04799.jpg,image,identify_flower_from_image,identify_flower_from_image,llama-3.1-8b-instant,4.946

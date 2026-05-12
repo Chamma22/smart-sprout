@@ -1,19 +1,15 @@
-"""
-Utility module for loading local environment variables from .env files.
+"""Load local environment variables from .env files for development.
 
-This is used only for local development. In Codespaces, environment variables
-are provided through Codespaces secrets, so this module has no effect there.
+In Codespaces, environment variables come from Codespaces secrets and this
+module has no effect.
 """
-from dotenv import load_dotenv
 from pathlib import Path
 
-def load_local_env():
-    """
-    Load environment variables from the local .env/sprout.env file.
+from dotenv import load_dotenv
 
-    This function loads the .env file only if it exists. It does not
-    override existing environment variables (e.g., Codespaces secrets).
-    """
-    env_path = Path(".env/sprout.env")
+
+def load_local_env():
+    """Load env vars from .env/sprout.env if the file exists, without overriding existing values."""
+    env_path = Path(__file__).parent.parent / ".env" / "sprout.env"
     if env_path.exists():
         load_dotenv(env_path)

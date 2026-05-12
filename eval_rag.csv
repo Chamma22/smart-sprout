@@ -1,0 +1,103 @@
+flower_name,query,retrieved_names,hit,time_s
+fire lily,What does a fire lily look like?,fire lily|fire lily|fire lily|fire lily,True,0.0407
+canterbury bells,What does a canterbury bells look like?,canterbury bells|canterbury bells|canterbury bells|canterbury bells,True,0.0129
+bolero deep blue,What does a bolero deep blue look like?,bolero deep blue|bolero deep blue|bolero deep blue|bolero deep blue,True,0.0127
+pink primrose,What does a pink primrose look like?,pink primrose|pink primrose|pink primrose|pink primrose,True,0.0125
+mexican aster,What does a mexican aster look like?,mexican aster|mexican aster|mexican aster|mexican aster,True,0.0108
+prince of wales feathers,What does a prince of wales feathers look like?,prince of wales feathers|prince of wales feathers|prince of wales feathers|prince of wales feathers,True,0.0134
+moon orchid,What does a moon orchid look like?,moon orchid|moon orchid|moon orchid|moon orchid,True,0.0135
+globe-flower,What does a globe-flower look like?,globe-flower|globe-flower|globe thistle|globe thistle,True,0.0133
+grape hyacinth,What does a grape hyacinth look like?,grape hyacinth|grape hyacinth|grape hyacinth|grape hyacinth,True,0.0134
+corn poppy,What does a corn poppy look like?,corn poppy|corn poppy|corn poppy|corn poppy,True,0.0136
+toad lily,What does a toad lily look like?,toad lily|toad lily|canna lily|peruvian lily,True,0.0132
+siam tulip,What does a siam tulip look like?,siam tulip|siam tulip|wild pansy|purple coneflower,True,0.013
+red ginger,What does a red ginger look like?,red ginger|red ginger|red ginger|red ginger,True,0.013
+spring crocus,What does a spring crocus look like?,spring crocus|spring crocus|spring crocus|spring crocus,True,0.0147
+alpine sea holly,What does a alpine sea holly look like?,alpine sea holly|alpine sea holly|alpine sea holly|alpine sea holly,True,0.0133
+garden phlox,What does a garden phlox look like?,garden phlox|garden phlox|garden phlox|garden phlox,True,0.0151
+globe thistle,What does a globe thistle look like?,globe thistle|globe thistle|globe thistle|spear thistle,True,0.013
+tiger lily,What does a tiger lily look like?,tiger lily|fire lily|blackberry lily|canna lily,True,0.0113
+ball moss,What does a ball moss look like?,ball moss|ball moss|ball moss|ball moss,True,0.0137
+love in the mist,What does a love in the mist look like?,love in the mist|love in the mist|love in the mist|love in the mist,True,0.014
+monkshood,What does a monkshood look like?,monkshood|monkshood|monkshood|monkshood,True,0.0128
+blackberry lily,What does a blackberry lily look like?,blackberry lily|blackberry lily|blackberry lily|blackberry lily,True,0.0123
+spear thistle,What does a spear thistle look like?,spear thistle|spear thistle|spear thistle|spear thistle,True,0.0127
+balloon flower,What does a balloon flower look like?,balloon flower|balloon flower|balloon flower|balloon flower,True,0.0123
+blanket flower,What does a blanket flower look like?,blanket flower|blanket flower|blanket flower|blanket flower,True,0.0112
+king protea,What does a king protea look like?,king protea|king protea|king protea|king protea,True,0.0119
+oxeye daisy,What does a oxeye daisy look like?,oxeye daisy|oxeye daisy|oxeye daisy|oxeye daisy,True,0.0126
+yellow iris,What does a yellow iris look like?,yellow iris|yellow iris|yellow iris|yellow iris,True,0.012
+cautleya spicata,What does a cautleya spicata look like?,cautleya spicata|cautleya spicata|cautleya spicata|cautleya spicata,True,0.0167
+carnation,What does a carnation look like?,carnation|carnation|carnation|carnation,True,0.0134
+silverbush,What does a silverbush look like?,silverbush|bearded iris|pelargonium|thorn apple,True,0.0133
+bearded iris,What does a bearded iris look like?,bearded iris|bearded iris|bearded iris|bearded iris,True,0.0114
+black-eyed susan,What does a black-eyed susan look like?,black-eyed susan|black-eyed susan|black-eyed susan|black-eyed susan,True,0.0139
+windflower,What does a windflower look like?,windflower|windflower|windflower|windflower,True,0.0123
+japanese anemone,What does a japanese anemone look like?,japanese anemone|japanese anemone|japanese anemone|japanese anemone,True,0.0133
+giant white arum lily,What does a giant white arum lily look like?,giant white arum lily|giant white arum lily|giant white arum lily|giant white arum lily,True,0.0127
+great masterwort,What does a great masterwort look like?,great masterwort|prince of wales feathers|sword lily|spear thistle,True,0.0139
+sweet pea,What does a sweet pea look like?,sweet pea|sweet pea|sweet pea|sweet pea,True,0.0132
+tree mallow,What does a tree mallow look like?,tree mallow|tree mallow|tree mallow|mallow,True,0.0163
+trumpet creeper,What does a trumpet creeper look like?,trumpet creeper|trumpet creeper|trumpet creeper|trumpet creeper,True,0.0151
+daffodil,What does a daffodil look like?,daffodil|daffodil|daffodil|daffodil,True,0.014
+pincushion flower,What does a pincushion flower look like?,pincushion flower|pincushion flower|pincushion flower|pincushion flower,True,0.014
+hard-leaved pocket orchid,What does a hard-leaved pocket orchid look like?,hard-leaved pocket orchid|hard-leaved pocket orchid|hard-leaved pocket orchid|hard-leaved pocket orchid,True,0.0126
+sunflower,What does a sunflower look like?,sunflower|sunflower|sunflower|sunflower,True,0.0127
+osteospermum,What does a osteospermum look like?,osteospermum|osteospermum|osteospermum|osteospermum,True,0.0125
+tree poppy,What does a tree poppy look like?,tree poppy|corn poppy|corn poppy|californian poppy,True,0.0119
+desert-rose,What does a desert-rose look like?,desert-rose|desert-rose|desert-rose|rose,True,0.0126
+bromelia,What does a bromelia look like?,bromelia|bromelia|bolero deep blue|bromelia,True,0.0136
+magnolia,What does a magnolia look like?,magnolia|magnolia|magnolia|magnolia,True,0.014
+english marigold,What does a english marigold look like?,english marigold|english marigold|english marigold|english marigold,True,0.014
+bee balm,What does a bee balm look like?,bee balm|bee balm|bee balm|bee balm,True,0.0139
+stemless gentian,What does a stemless gentian look like?,stemless gentian|daffodil|sweet pea|lenten rose,True,0.0162
+mallow,What does a mallow look like?,mallow|tree mallow|mallow|mallow,True,0.0129
+gaura,What does a gaura look like?,gaura|gaura|gaura|gaura,True,0.0125
+lenten rose,What does a lenten rose look like?,lenten rose|lenten rose|lenten rose|lenten rose,True,0.013
+marigold,What does a marigold look like?,marigold|english marigold|english marigold|english marigold,True,0.0129
+orange dahlia,What does a orange dahlia look like?,orange dahlia|orange dahlia|orange dahlia|orange dahlia,True,0.0149
+buttercup,What does a buttercup look like?,buttercup|buttercup|buttercup|buttercup,True,0.0137
+pelargonium,What does a pelargonium look like?,pelargonium|pelargonium|pelargonium|pelargonium,True,0.0138
+ruby-lipped cattleya,What does a ruby-lipped cattleya look like?,ruby-lipped cattleya|ruby-lipped cattleya|ruby-lipped cattleya|ruby-lipped cattleya,True,0.0129
+hippeastrum,What does a hippeastrum look like?,hippeastrum|hippeastrum|hippeastrum|hippeastrum,True,0.0131
+artichoke,What does a artichoke look like?,artichoke|artichoke|artichoke|artichoke,True,0.0127
+gazania,What does a gazania look like?,gazania|gazania|gazania|gazania,True,0.0124
+canna lily,What does a canna lily look like?,canna lily|canna lily|canna lily|canna lily,True,0.0142
+peruvian lily,What does a peruvian lily look like?,peruvian lily|peruvian lily|peruvian lily|peruvian lily,True,0.0119
+mexican petunia,What does a mexican petunia look like?,mexican petunia|mexican petunia|mexican petunia|mexican petunia,True,0.0116
+bird of paradise,What does a bird of paradise look like?,bird of paradise|bird of paradise|bird of paradise|bird of paradise,True,0.0132
+sweet william,What does a sweet william look like?,sweet william|sweet william|sweet william|sweet william,True,0.0114
+purple coneflower,What does a purple coneflower look like?,purple coneflower|purple coneflower|purple coneflower|purple coneflower,True,0.0118
+wild pansy,What does a wild pansy look like?,wild pansy|wild pansy|wild pansy|wild pansy,True,0.014
+columbine,What does a columbine look like?,columbine|columbine|columbine|columbine,True,0.014
+colt's foot,What does a colt's foot look like?,colt's foot|colt's foot|colt's foot|colt's foot,True,0.0124
+snapdragon,What does a snapdragon look like?,snapdragon|snapdragon|snapdragon|snapdragon,True,0.0138
+camellia,What does a camellia look like?,camellia|camellia|camellia|camellia,True,0.0131
+fritillary,What does a fritillary look like?,fritillary|fritillary|fritillary|fritillary,True,0.0123
+common dandelion,What does a common dandelion look like?,common dandelion|common dandelion|common dandelion|common dandelion,True,0.0115
+poinsettia,What does a poinsettia look like?,poinsettia|poinsettia|poinsettia|poinsettia,True,0.0126
+primula,What does a primula look like?,primula|primula|primula|primula,True,0.0114
+azalea,What does a azalea look like?,azalea|azalea|azalea|azalea,True,0.0128
+californian poppy,What does a californian poppy look like?,californian poppy|californian poppy|californian poppy|californian poppy,True,0.0124
+anthurium,What does a anthurium look like?,anthurium|anthurium|anthurium|anthurium,True,0.0123
+morning glory,What does a morning glory look like?,morning glory|morning glory|morning glory|morning glory,True,0.0125
+cape flower,What does a cape flower look like?,cape flower|cape flower|cape flower|cape flower,True,0.0116
+bishop of llandaff,What does a bishop of llandaff look like?,bishop of llandaff|bishop of llandaff|bishop of llandaff|bishop of llandaff,True,0.0132
+pink-yellow dahlia,What does a pink-yellow dahlia look like?,orange dahlia|orange dahlia|pink-yellow dahlia|orange dahlia,True,0.0121
+clematis,What does a clematis look like?,clematis|clematis|clematis|clematis,True,0.013
+geranium,What does a geranium look like?,geranium|geranium|geranium|geranium,True,0.013
+thorn apple,What does a thorn apple look like?,thorn apple|thorn apple|thorn apple|thorn apple,True,0.0121
+barberton daisy,What does a barberton daisy look like?,barberton daisy|barberton daisy|barberton daisy|barberton daisy,True,0.0116
+bougainvillea,What does a bougainvillea look like?,bougainvillea|bougainvillea|bougainvillea|bougainvillea,True,0.0138
+sword lily,What does a sword lily look like?,sword lily|sword lily|sword lily|sword lily,True,0.0115
+hibiscus,What does a hibiscus look like?,hibiscus|hibiscus|hibiscus|hibiscus,True,0.0122
+lotus,What does a lotus look like?,lotus|lotus|lotus|lotus,True,0.0117
+cyclamen,What does a cyclamen look like?,cyclamen|cyclamen|cyclamen|cyclamen,True,0.0127
+foxglove,What does a foxglove look like?,foxglove|foxglove|foxglove|foxglove,True,0.0134
+frangipani,What does a frangipani look like?,frangipani|frangipani|frangipani|frangipani,True,0.0125
+rose,What does a rose look like?,rose|rose|rose|rose,True,0.0107
+watercress,What does a watercress look like?,watercress|watercress|watercress|watercress,True,0.0135
+water lily,What does a water lily look like?,giant white arum lily|giant white arum lily|water lily|water lily,True,0.0114
+wallflower,What does a wallflower look like?,wallflower|wallflower|sunflower|sunflower,True,0.0116
+passion flower,What does a passion flower look like?,passion flower|passion flower|passion flower|passion flower,True,0.0125
+petunia,What does a petunia look like?,petunia|petunia|petunia|petunia,True,0.011
